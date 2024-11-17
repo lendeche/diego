@@ -24,5 +24,4 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://github.com/lendeche)
+
